@@ -12,4 +12,4 @@
     <a href="https://wa.me/62858179645827">View Demo</a>
   </p>
 </p>
-** [Zaky](https://github.com/ZakyZJ1/)
+
